@@ -1,0 +1,49 @@
+{
+  "bankAccounts": [
+    {
+      "id": 1,
+      "balance": 21500,
+      "name": "Bank of America"
+    },
+    {
+      "id": 2,
+      "balance": 32200,
+      "name": "Wells Fargo"
+    },
+    {
+      "id": 3,
+      "balance": 12000,
+      "name": "Citigroup"
+    }
+  ],
+  "financialGoals": [
+    {
+      "id": 1,
+      "name": "Emergency Fund",
+      "goalTarget": 30000,
+      "goalProgress": 25000,
+      "accountId": 1
+    },
+    {
+      "id": 2,
+      "name": "Reserve Fund",
+      "goalTarget": 60000,
+      "goalProgress": 20000,
+      "accountId": 2
+    },
+    {
+      "id": 3,
+      "name": "Trip to Japan",
+      "goalTarget": 10000,
+      "goalProgress": 5000,
+      "accountId": 3
+    },
+    {
+      "id": 4,
+      "name": "Tax Advantage",
+      "goalTarget": 40000,
+      "goalProgress": 2000,
+      "accountId": 10
+    }
+  ]
+}
